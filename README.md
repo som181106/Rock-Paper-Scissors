@@ -65,25 +65,6 @@ Planned improvements for future versions:
 * **JavaScript (Vanilla JS)**
 * **VS Code**
 
----
-
-## 📂 Project Structure
-
-```text
-rock-paper-scissors/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-│── screenshots/
-```
-
----
-
-## 📸 Screenshots
-![Gameplay](.png)
-![Winning State](Screenshot 2026-03-28 233900.png)
-![Scoreboard](Screenshot 2026-03-28 233920.png)
 
 ---
 
